@@ -1,7 +1,7 @@
 export function page(){
     return `
     <h2>Privacy Policy</h2>
-<p>Your privacy is important to us. It is Enderase Manager&#39;s policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, <a href="https://">https://</a>, and other sites we own and operate. </p>
+<p>Your privacy is important to us. It is Enderase Manager&#39;s policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, <a href="https://">https://enderase-manager.com</a>, and other sites we own and operate. </p>
 <p>This policy is effective as of 21 July 2022 and was last updated on 21 July 2022. </p>
 <h3>Information We Collect</h3>
 <p>Information we collect includes both information you knowingly and actively provide us when using or participating in any of our services and promotions, and any information automatically sent by your devices in the course of accessing our products and services. </p>
