@@ -1,0 +1,12 @@
+{
+  "name": "enderase-privacy-policy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npm index"  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
